@@ -9,4 +9,5 @@ Id  | Title                                                                     
 153 | (Find Minimum in Rotated Sorted Array)[<https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/>]     | Medium     | Golang   | 8 ms
 205 | (Isomorphic Strings)[<https://leetcode.com/problems/isomorphic-strings/>]                                         | Easy       | Golang   | 11 ms
 258 | (Add Digits)[<https://leetcode.com/problems/add-digits/>]                                                         | Easy       | Golang   | 16 ms
+260 | (Single Number III)[<https://leetcode.com/problems/single-number-iii/>]                                           | Medium     | Golang   | 24 ms
 344 | (Reverse String)[<https://leetcode.com/problems/reverse-string/>]                                                 | Easy       | Golang   | 16 ms
